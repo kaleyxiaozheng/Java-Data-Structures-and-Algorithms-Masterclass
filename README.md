@@ -1,4 +1,4 @@
-## Runtime Complexitites
+## Runtime Complexitities
 | Complexity | Name | Sample |
 | :--- | :--- | :--- |
 | O(1) | Constant | A simple and numbers function |
